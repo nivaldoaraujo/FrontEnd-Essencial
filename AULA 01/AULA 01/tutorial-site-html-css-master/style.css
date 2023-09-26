@@ -1,0 +1,41 @@
+body { background: #d2d2c1 url('imagens/fundo.jpg') ;
+
+font: 16px Arial, Helvetica, sans-serif;}
+
+#principal {
+  width: 1280px;
+}
+
+#menu {
+  background-color: #4F83FA;
+  padding: 18px;
+  
+}
+
+#conteudo {background: #D6E2FF ;
+			padding: 10px;
+
+}
+img{
+	width: 1280px;
+	height: 350px;
+}
+
+#conteudo h1 {text-align: center; 
+}
+
+.centralizar {text-align: center;}
+
+a{
+	color: white ;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+
+}
+
+h1 { color: #9CB0DC ;
+	font-size: 1.2em;
+
+
+}
